@@ -1,0 +1,17 @@
+D:\C#\Weather report\Weather report\bin\Release\Weather report.exe.config
+D:\C#\Weather report\Weather report\bin\Release\Weather report.exe
+D:\C#\Weather report\Weather report\bin\Release\Weather report.pdb
+D:\C#\Weather report\Weather report\bin\Release\Newtonsoft.Json.dll
+D:\C#\Weather report\Weather report\bin\Release\Newtonsoft.Json.xml
+D:\C#\Weather report\Weather report\obj\Release\Weather report.csproj.AssemblyReference.cache
+D:\C#\Weather report\Weather report\obj\Release\MainWindow.baml
+D:\C#\Weather report\Weather report\obj\Release\MainWindow.g.cs
+D:\C#\Weather report\Weather report\obj\Release\App.g.cs
+D:\C#\Weather report\Weather report\obj\Release\Weather report_MarkupCompile.cache
+D:\C#\Weather report\Weather report\obj\Release\Weather report.g.resources
+D:\C#\Weather report\Weather report\obj\Release\Weather_report.Properties.Resources.resources
+D:\C#\Weather report\Weather report\obj\Release\Weather report.csproj.GenerateResource.cache
+D:\C#\Weather report\Weather report\obj\Release\Weather report.csproj.CoreCompileInputs.cache
+D:\C#\Weather report\Weather report\obj\Release\Weather .30103EB1.Up2Date
+D:\C#\Weather report\Weather report\obj\Release\Weather report.exe
+D:\C#\Weather report\Weather report\obj\Release\Weather report.pdb
